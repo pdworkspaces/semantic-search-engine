@@ -1,0 +1,28 @@
+Python is widely used for machine learning.
+
+React is a JavaScript library for building user interfaces.
+
+FastAPI is a Python framework for building APIs.
+
+Docker packages applications inside containers.
+
+Machine learning models learn patterns from data.
+Python is a popular programming language used for artificial intelligence.
+
+Machine learning allows computers to learn patterns from data.
+
+Deep learning uses artificial neural networks with multiple layers.
+
+React is a JavaScript library used for building user interfaces.
+
+FastAPI is a modern Python framework used for building APIs.
+
+Docker allows developers to package applications inside containers.
+
+Vector databases store high-dimensional vectors and support similarity search.
+
+Embeddings convert text, images, or other data into numerical vectors.
+
+Semantic search retrieves documents based on meaning instead of exact keywords.
+
+Retrieval-Augmented Generation combines information retrieval with large language models.
